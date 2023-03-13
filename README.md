@@ -19,3 +19,8 @@ pip install locate
 
 pip install bs4
 
+git clone https://github.com/ROBIN-R404/FALCON-V1
+
+cd FALCON-V1
+
+python falcon.py
